@@ -29,3 +29,5 @@ This project scans a target IP address to identify open TCP ports, helping under
 - Scan only authorized systems
 - Use smaller port ranges for faster results
 - Threading improves efficiency
+
+"C:\Users\user\OneDrive\รูปภาพ\networkpic.JPG"
