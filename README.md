@@ -31,4 +31,5 @@ This project scans a target IP address to identify open TCP ports, helping under
 - Threading improves efficiency
 
 
-
+Result:
+![Image](https://github.com/user-attachments/assets/6fcff961-9aa0-4fd0-93a2-35bfded86ff0)
